@@ -1,2 +1,2 @@
 # py_raytrace
-Python Ray Tracer
+A very simple ray-tracing algorithm in Python.
